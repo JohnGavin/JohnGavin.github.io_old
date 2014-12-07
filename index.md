@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: John Gavin
+title: John Gavin 
 ---
 
 <div class="navbar">
