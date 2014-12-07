@@ -2,11 +2,10 @@
 layout: page
 title: about
 ---
-R fan.
+[R](http://www.r-project.org/) fan.
 
 [curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/JohnGavin.pdf)
 
-[orcid](http://orcid.org): [0000-0002-4914-6671](http://orcid.org/0000-0002-4914-6671)
 
 ---
 
@@ -39,12 +38,5 @@ R fan.
                   title="John Gavin" alt="John Gavin"/></a>
         </div>
 -->
-        </div>
-
-        <div class="span2">
-        <a href="../assets/pics/karl_2014-03-30.jpg">
-            <img src="../assets/pics/karl_2014-03-30_small.jpg"
-                  title="Karl Broman" alt="Karl Broman"/></a>
-        </div>
     </div>
 </div>
